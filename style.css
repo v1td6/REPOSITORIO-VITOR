@@ -1,0 +1,10 @@
+.cabecaolho{background-color: red;
+color: black;
+display: flex;
+padding: 28px 0;
+}
+
+
+.section1{background-color: blueviolet;}
+
+.section2{background-color: wheat;}
